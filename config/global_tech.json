@@ -1,0 +1,5 @@
+{
+  "tenant_name": "Global Tech",
+  "modules": ["accounting"],
+  "max_users": 5
+}

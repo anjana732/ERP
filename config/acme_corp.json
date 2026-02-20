@@ -1,0 +1,5 @@
+{
+  "tenant_name": "Acme Corp",
+  "modules": ["inventory", "sales"],
+  "max_users": 10
+}
